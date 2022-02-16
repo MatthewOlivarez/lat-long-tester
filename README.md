@@ -9,6 +9,8 @@ Node.js - Docs: https://nodejs.org/en/docs/guides/getting-started-guide/
 
 Express.js - Docs: https://expressjs.com/en/starter/hello-world.html
 
+ejs - Docs: https://ejs.co/#docs
+
 Axios - Docs: https://axios-http.com/docs/example
 
 API links:
